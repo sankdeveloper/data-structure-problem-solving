@@ -3,7 +3,7 @@ namespace ConsoleApp1.Stack;
 // https://leetcode.com/problems/simplify-path/
 public class StackSimplifyPath
 {
-    public static void Main(string[] args)
+    public static void Main1(string[] args)
     {
         var output1 = SimplifyPath("/home/"); //output: "/home"
         var output2 = SimplifyPath("/../"); //output: "/"
