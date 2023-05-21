@@ -1,0 +1,15 @@
+C:\Users\sanket.naik\source\repos\short-sharp\ConsoleApp1\DataStructureSolve\bin\Debug\net7.0\DataStructureSolve.exe
+C:\Users\sanket.naik\source\repos\short-sharp\ConsoleApp1\DataStructureSolve\bin\Debug\net7.0\DataStructureSolve.deps.json
+C:\Users\sanket.naik\source\repos\short-sharp\ConsoleApp1\DataStructureSolve\bin\Debug\net7.0\DataStructureSolve.runtimeconfig.json
+C:\Users\sanket.naik\source\repos\short-sharp\ConsoleApp1\DataStructureSolve\bin\Debug\net7.0\DataStructureSolve.dll
+C:\Users\sanket.naik\source\repos\short-sharp\ConsoleApp1\DataStructureSolve\bin\Debug\net7.0\DataStructureSolve.pdb
+C:\Users\sanket.naik\source\repos\short-sharp\ConsoleApp1\DataStructureSolve\obj\Debug\net7.0\DataStructureSolve.csproj.AssemblyReference.cache
+C:\Users\sanket.naik\source\repos\short-sharp\ConsoleApp1\DataStructureSolve\obj\Debug\net7.0\DataStructureSolve.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sanket.naik\source\repos\short-sharp\ConsoleApp1\DataStructureSolve\obj\Debug\net7.0\DataStructureSolve.AssemblyInfoInputs.cache
+C:\Users\sanket.naik\source\repos\short-sharp\ConsoleApp1\DataStructureSolve\obj\Debug\net7.0\DataStructureSolve.AssemblyInfo.cs
+C:\Users\sanket.naik\source\repos\short-sharp\ConsoleApp1\DataStructureSolve\obj\Debug\net7.0\DataStructureSolve.csproj.CoreCompileInputs.cache
+C:\Users\sanket.naik\source\repos\short-sharp\ConsoleApp1\DataStructureSolve\obj\Debug\net7.0\DataStructureSolve.dll
+C:\Users\sanket.naik\source\repos\short-sharp\ConsoleApp1\DataStructureSolve\obj\Debug\net7.0\refint\DataStructureSolve.dll
+C:\Users\sanket.naik\source\repos\short-sharp\ConsoleApp1\DataStructureSolve\obj\Debug\net7.0\DataStructureSolve.pdb
+C:\Users\sanket.naik\source\repos\short-sharp\ConsoleApp1\DataStructureSolve\obj\Debug\net7.0\DataStructureSolve.genruntimeconfig.cache
+C:\Users\sanket.naik\source\repos\short-sharp\ConsoleApp1\DataStructureSolve\obj\Debug\net7.0\ref\DataStructureSolve.dll
