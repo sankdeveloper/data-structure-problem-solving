@@ -1,0 +1,8 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/DataStructureSolve/obj
+/.vs/ConsoleApp.DataStructure.Problems/FileContentIndex/1a59232d-d3f7-454e-9abb-5f39f3b42508.vsidx
+/.vs/ConsoleApp.DataStructure.Problems/FileContentIndex/read.lock
+/.vs/data-structure-problem-solving/v17/.wsuo
