@@ -1,19 +1,4 @@
 namespace ConsoleApp1.Graph;
-
-// public class SpiralMatrixGraph
-// {
-//     public static void Main(string[] args)
-//     {
-//         int[,] matrix = { { 1, 2, 3 }, { 4, 5, 6 }, { 7, 8, 9 } };
-//     }
-//
-//     public IList<int> SpiralOrder(int[][] matrix)
-//     {
-//         throw new NotImplementedException();
-//     }
-// }
-
-
 public class Program3
 {
     public static void Main1(string[] args)

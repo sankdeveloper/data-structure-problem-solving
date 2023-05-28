@@ -1,5 +1,3 @@
-using System.Xml.Serialization;
-
 namespace ConsoleApp1.Stack;
 
 /*
@@ -8,7 +6,7 @@ namespace ConsoleApp1.Stack;
  */
 public class StackValidParenthesis
 {
-    public static void Main(string[] args)
+    public static void Main1(string[] args)
     {
         var str = IsValidParenthesis("()[]{}"); // true
         var str2 = IsValidParenthesis("()[]{}}"); // false
