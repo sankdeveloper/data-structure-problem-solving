@@ -1,20 +1,10 @@
+using ConsoleApp1.LinkedList.shared;
+
 namespace ConsoleApp1.LinkedList;
-
-public class ListNode
-{
-    public readonly int Value;
-    public ListNode? Next;
-
-    public ListNode(int value = 0, ListNode? next = null)
-    {
-        this.Value = value;
-        this.Next = next;
-    }
-}
 
 public class Program
 {
-    public static void Main0(string[] args)
+    public static void Main3(string[] args)
     {
         // Example linked lists
         ListNode? list1 = new(1);
